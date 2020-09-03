@@ -15,3 +15,7 @@
 [INFO] 17:30:51:659 Servidor/(6472:6472): Se conecto un cliente!
 [INFO] 17:30:51:660 Servidor/(6472:6472): Me llego el mensaje Hola, soy un valor
 [ERROR] 17:31:11:197 Servidor/(6472:6472): el cliente se desconecto. Terminando servidor
+[INFO] 07:23:09:824 Servidor/(6298:6298): Servidor listo para recibir al cliente
+[INFO] 07:23:16:839 Servidor/(6298:6298): Se conecto un cliente!
+[INFO] 07:23:16:839 Servidor/(6298:6298): Me llego el mensaje Hola, soy un valor
+[ERROR] 07:23:23:517 Servidor/(6298:6298): el cliente se desconecto. Terminando servidor

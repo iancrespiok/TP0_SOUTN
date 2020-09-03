@@ -98,3 +98,12 @@
 
 [INFO] 17:30:38:706 TP0/(6481:6481): Hola, soy un valor
 [INFO] 17:30:51:41 TP0/(6481:6481): holka
+[INFO] 07:21:01:247 TP0/(6135:6135): Soy un log
+
+[INFO] 07:21:01:248 TP0/(6135:6135): Hola, soy un valor
+[INFO] 07:21:05:799 TP0/(6135:6135): hola
+[INFO] 07:21:07:799 TP0/(6135:6135): hoña
+[INFO] 07:23:13:875 TP0/(6299:6299): Soy un log
+
+[INFO] 07:23:13:875 TP0/(6299:6299): Hola, soy un valor
+[INFO] 07:23:16:150 TP0/(6299:6299): hola
